@@ -24,7 +24,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
  👨‍💻 All of my projects are available  [here](https://github.com/maripbekoff?tab=repositories)
 
- 💬 Ask me about anything <a href="https://t.me/maripbekoff"><b>here</b></a>
+ 💬 Ask me about anything <a href="https://t.me/maripbekoff" target="_blank"><b>here</b></a>
 
  📫 Also, you may send a letter to **maripbekoff@gmail.com**
 
