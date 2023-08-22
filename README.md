@@ -100,7 +100,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <br>
 <div align="center">
 <h3>Flutter courses (click logo)</h3>
-<p><a href="https://mobile.codeunion.kz/" target="_blank" > <img src="https://mobile.codeunion.kz/static/media/logo.b2d0053c.svg" height="50" width="210" alt="Code Union"/></a></p>
+<p><a href="https://mobile.codeunion.kz/" target="_blank" > <img src="https://mobile.codeunion.kz/static/media/logo.72bbdd37499e2f20b8a2dcbd8b99a309.svg" height="50" width="210" alt="Code Union"/></a></p>
 </div>
 
 -----
